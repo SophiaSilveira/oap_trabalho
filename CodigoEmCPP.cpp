@@ -27,7 +27,7 @@ int sqrt_nr(int x, int i){
 int main(){
     int x, i, result;
     
-    cout << "Programa de Raiz Quadrada - Newton-Rapson" << endl << "Desenvolvedores: < Sophia, Bruna >" << endl;
+    cout << "Programa de Raiz Quadrada - Newton-Rapson" << endl << "Desenvolvedores: < Sophia, Bruna, Luiza, Gabrielle >" << endl;
 
     while(1){
         cout << "Digite os parâmetros de x e i para calcular sqrt_nr (x,i) ou -1 para abortar a execução" << endl;
